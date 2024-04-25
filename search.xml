@@ -3,7 +3,7 @@
   <entry>
     <title>Hello</title>
     <url>/newslist/say-hello-to-cpp/</url>
-    <content><![CDATA[<h3 id="Say-hello-to-C"><a href="#Say-hello-to-C" class="headerlink" title="Say hello to C++"></a>Say hello to C++</h3><p>雖然，我接觸 C++ 算早，卻沒有真正認識到 C++，我想，放掉以前與 C++ 相處的種種，讓自己歸零，重新開始。</p>
+    <content><![CDATA[<h3 id="Restart"><a href="#Restart" class="headerlink" title="Restart"></a>Restart</h3><p>雖然，我接觸 C++ 算早，卻沒有真正認識到 C++，我想，放掉以前與 C++ 相處的種種，讓自己歸零，重新開始。</p>
 <p>取名 cppFun 是因為，僅管 C++ 算是相對比較複雜的程式語言，我仍舊希望能夠用比較輕鬆愉快的心情面對，從而慢慢累積相關的知識。</p>
 <p>選用 .XYZ 這個通用頂級域（英語：Generic top-level domain，縮寫為gTLD），主要是因為 <code>XYZ</code> 會讓我想起「城市獵人」這部我從接觸至今就很喜歡的漫畫，並且以這個域名提醒、激勵自己，以成為 C++ 的城市獵人為目標（僅管，現實是殘酷的）。</p>
 ]]></content>
