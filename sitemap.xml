@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cppfun.xyz/newslist/say-hello-to-cpp/</loc>
+    <loc>http://learningcppmightbe.fun/newslist/say-hello-to-cpp/</loc>
+    
+    <lastmod>2024-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://learningcppmightbe.fun/about/index.html</loc>
     
     <lastmod>2024-04-25</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://cppfun.xyz/about/index.html</loc>
+    <loc>http://learningcppmightbe.fun/404.html</loc>
     
     <lastmod>2024-04-25</lastmod>
     
@@ -20,16 +29,7 @@
   </url>
   
   <url>
-    <loc>http://cppfun.xyz/404.html</loc>
-    
-    <lastmod>2024-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://cppfun.xyz/tags/index.html</loc>
+    <loc>http://learningcppmightbe.fun/categories/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://cppfun.xyz/categories/index.html</loc>
+    <loc>http://learningcppmightbe.fun/tags/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -48,16 +48,16 @@
   
 
   <url>
-    <loc>http://cppfun.xyz/</loc>
-    <lastmod>2024-04-25</lastmod>
+    <loc>http://learningcppmightbe.fun/</loc>
+    <lastmod>2024-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://cppfun.xyz/tags/news/</loc>
-    <lastmod>2024-04-25</lastmod>
+    <loc>http://learningcppmightbe.fun/tags/news/</loc>
+    <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -65,8 +65,8 @@
 
   
   <url>
-    <loc>http://cppfun.xyz/categories/newslist/</loc>
-    <lastmod>2024-04-25</lastmod>
+    <loc>http://learningcppmightbe.fun/categories/newslist/</loc>
+    <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
