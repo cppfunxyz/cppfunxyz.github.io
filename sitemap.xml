@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cppisfun.one/newslist/say-hello-to-cpp/</loc>
+    <loc>http://learncoding.monster/newslist/say-hello-to-cpp/</loc>
     
     <lastmod>2024-04-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://cppisfun.one/about/index.html</loc>
+    <loc>http://learncoding.monster/about/index.html</loc>
     
     <lastmod>2024-04-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://cppisfun.one/404.html</loc>
+    <loc>http://learncoding.monster/404.html</loc>
     
     <lastmod>2024-04-25</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://cppisfun.one/categories/index.html</loc>
+    <loc>http://learncoding.monster/categories/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://cppisfun.one/tags/index.html</loc>
+    <loc>http://learncoding.monster/tags/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://cppisfun.one/</loc>
+    <loc>http://learncoding.monster/</loc>
     <lastmod>2024-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>http://cppisfun.one/tags/news/</loc>
+    <loc>http://learncoding.monster/tags/news/</loc>
     <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>http://cppisfun.one/categories/newslist/</loc>
+    <loc>http://learncoding.monster/categories/newslist/</loc>
     <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
