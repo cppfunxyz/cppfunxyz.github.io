@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cplusplus.monster/newslist/my-learning-plan/</loc>
+    <loc>http://refactor.monster/newslist/my-learning-plan/</loc>
     
     <lastmod>2024-04-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/newslist/say-hello-to-coding/</loc>
+    <loc>http://refactor.monster/newslist/say-hello-to-coding/</loc>
     
     <lastmod>2024-04-28</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/about/index.html</loc>
+    <loc>http://refactor.monster/about/index.html</loc>
     
     <lastmod>2024-04-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/404.html</loc>
+    <loc>http://refactor.monster/404.html</loc>
     
     <lastmod>2024-04-25</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/categories/index.html</loc>
+    <loc>http://refactor.monster/tags/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/tags/index.html</loc>
+    <loc>http://refactor.monster/categories/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://cplusplus.monster/</loc>
+    <loc>http://refactor.monster/</loc>
     <lastmod>2024-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,28 +65,28 @@
 
   
   <url>
-    <loc>http://cplusplus.monster/tags/cPlusPlus/</loc>
+    <loc>http://refactor.monster/tags/cPlusPlus/</loc>
     <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/tags/cpp/</loc>
+    <loc>http://refactor.monster/tags/cpp/</loc>
     <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/tags/news/</loc>
+    <loc>http://refactor.monster/tags/news/</loc>
     <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://cplusplus.monster/tags/learningPlan/</loc>
+    <loc>http://refactor.monster/tags/learningPlan/</loc>
     <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -95,7 +95,7 @@
 
   
   <url>
-    <loc>http://cplusplus.monster/categories/newslist/</loc>
+    <loc>http://refactor.monster/categories/newslist/</loc>
     <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
