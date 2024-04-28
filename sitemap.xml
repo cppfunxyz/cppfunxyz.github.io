@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://learncoding.monster/newslist/my-learning-plan/</loc>
+    
+    <lastmod>2024-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://learncoding.monster/about/index.html</loc>
     
     <lastmod>2024-04-27</lastmod>
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://learncoding.monster/tags/index.html</loc>
+    <loc>http://learncoding.monster/categories/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://learncoding.monster/categories/index.html</loc>
+    <loc>http://learncoding.monster/tags/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -49,7 +58,7 @@
 
   <url>
     <loc>http://learncoding.monster/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +66,14 @@
   
   <url>
     <loc>http://learncoding.monster/tags/news/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <lastmod>2024-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://learncoding.monster/tags/learningPlan/</loc>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,7 +82,7 @@
   
   <url>
     <loc>http://learncoding.monster/categories/newslist/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

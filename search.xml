@@ -27,4 +27,32 @@
         <tag>news</tag>
       </tags>
   </entry>
+  <entry>
+    <title>My learning plan</title>
+    <url>/newslist/my-learning-plan/</url>
+    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>《文選．劉孝標．廣絕交書》：「苞苴所入，實行張霍之家，謀而後動，毫芒寡忒，是曰：『量交。』」</p>
+<h3 id="My-plan"><a href="#My-plan" class="headerlink" title="My plan"></a>My plan</h3><p>關於學習 C++ 程式設計的學習計畫，我所設想的大致如下。</p>
+<ol>
+<li><p>Learning goal：預計在 1 年內（從 2024 年 5 月 1 日起算），消化完目前手邊的教學資源。這件事能夠達成的話，再來評估我學到什麼程度。一般而言，多半是以「到達什麼樣的程度」做為目標。而，我之所以訂出這樣的目標，主要是我從來沒有把手邊的教學資源消化完過，回顧自己在 Udemy 入手課程進度來看，通常都停留在 20%，也因此，我現在只知道把 Hello world 輸出來的 cin、cout，這樣能夠說我會程式設計嗎？</p>
+</li>
+<li><p>Resources：在 Udemy 上面的 2 部 C++ 教學的課程影片，2 部加起來的時數，總計是 58.5 小時，</p>
+</li>
+<li><p>Action：每天使用 0.5 至 1 小時的時間，觀看影片。遇到假日，或是可以分配更多時間學習時，就直接拿來運用。</p>
+</li>
+</ol>
+<h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
+<li><p>雖然，我所謂的謀定後動，開始起算的時間是 2024 年 5 月 1 日，實際上，我現在已經在熱身。</p>
+</li>
+<li><p>延伸閱讀：<a href="https://en.wikipedia.org/wiki/Learning_plan">Learning plan - Wikipedia</a></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>newslist</category>
+      </categories>
+      <tags>
+        <tag>news</tag>
+        <tag>learningPlan</tag>
+      </tags>
+  </entry>
 </search>
