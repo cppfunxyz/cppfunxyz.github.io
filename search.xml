@@ -24,6 +24,8 @@
         <category>newslist</category>
       </categories>
       <tags>
+        <tag>cPlusPlus</tag>
+        <tag>cpp</tag>
         <tag>news</tag>
       </tags>
   </entry>
@@ -51,6 +53,8 @@
         <category>newslist</category>
       </categories>
       <tags>
+        <tag>cPlusPlus</tag>
+        <tag>cpp</tag>
         <tag>news</tag>
         <tag>learningPlan</tag>
       </tags>
