@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://refactor.monster/about/index.html</loc>
+    
+    <lastmod>2024-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://refactor.monster/newslist/my-learning-plan/</loc>
     
     <lastmod>2024-04-28</lastmod>
@@ -20,15 +29,6 @@
   </url>
   
   <url>
-    <loc>http://refactor.monster/about/index.html</loc>
-    
-    <lastmod>2024-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://refactor.monster/404.html</loc>
     
     <lastmod>2024-04-25</lastmod>
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://refactor.monster/categories/index.html</loc>
+    <loc>http://refactor.monster/tags/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://refactor.monster/tags/index.html</loc>
+    <loc>http://refactor.monster/categories/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
