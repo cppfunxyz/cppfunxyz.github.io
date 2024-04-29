@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://refactor.monster/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,28 +66,28 @@
   
   <url>
     <loc>http://refactor.monster/tags/cPlusPlus/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://refactor.monster/tags/cpp/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://refactor.monster/tags/news/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://refactor.monster/tags/learningPlan/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -96,7 +96,7 @@
   
   <url>
     <loc>http://refactor.monster/categories/newslist/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
