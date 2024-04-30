@@ -32,6 +32,39 @@
       </tags>
   </entry>
   <entry>
+    <title>Warming up</title>
+    <url>/learningPlan/warming-up/</url>
+    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>有關熱身，我跑一趟網路上的<a href="https://dictionary.cambridge.org/zht/">劍橋詞典：查找意思、解釋及翻譯</a>取經，找到 Warm-up 及其解釋如下（詳可見：<a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94-%E8%8B%B1%E8%AA%9E/%E7%86%B1%E8%BA%AB">熱身 | 繁體中文-英文翻譯－劍橋字典</a>）。</p>
+<blockquote>
+<p>something that you do to prepare yourself for an activity, especially gentle exercises before a physical activity</p>
+</blockquote>
+<h3 id="Benefits"><a href="#Benefits" class="headerlink" title="Benefits"></a>Benefits</h3><ol>
+<li><p>幫助睡眠：是的，我自己說「開始起算的時間是 2024 年 5 月 1 日，實際上，我現在已經在熱身。」然而，可能是因為太久沒有大量使用我的專注力，所以，前面提到的熱身，其實已經讓我有點疲累感。所幸的是，這樣反而睡得更沉。</p>
+</li>
+<li><p>釐清資源的適配性：在 Udemy 上面的 2 部 C++ 教學的課程影片，2 部加起來的時數，總計是 58.5 小時。然而，我分別從頭開始聽取之後，我發現幾年前曾經聽過課程前段，重新學習的效能提升度，無法讓我感到滿足。我認為這不是課程的問題，而是我自己能否與課程有良好的適配性有關。</p>
+</li>
+<li><p>嘗試其他資源，或找尋其他資源：這次重新起步再學，我的運氣好上不少。一方面，應該是網路資源爆發的關係；另一方面，或許是因為 Coding 的教學在國內有更多的種子已經長芽發展。</p>
+</li>
+</ol>
+<h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
+<li><p>熱身期間，讓我決定以新找尋到的課程資源為主，僅管如此，我原先設定好的學習期程，並不會受到影響。同時，我也不會因此放掉那 2 部在 Udemy 上面的課程，而是，我比較會把這 2 套課程，當成是輔助教材。</p>
+</li>
+<li><p>延伸閱讀：<a href="https://en.wikipedia.org/wiki/Warming_up">Warming up - Wikipedia</a></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>learningPlan</category>
+      </categories>
+      <tags>
+        <tag>coding</tag>
+        <tag>cPlusPlus</tag>
+        <tag>cpp</tag>
+        <tag>news</tag>
+        <tag>learningPlan</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Say Hello to coding</title>
     <url>/learningPlan/say-hello-to-coding/</url>
     <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>數算起來，我接觸到 Coding 的時間算早。</p>
@@ -58,39 +91,6 @@
         <tag>coding</tag>
         <tag>cPlusPlus</tag>
         <tag>cpp</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Warming up</title>
-    <url>/learningPlan/warming-up/</url>
-    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>有關熱身，翻開<a href="https://dictionary.cambridge.org/zht/">劍橋詞典：查找意思、解釋及翻譯</a>，找到 Warm-up 及其解釋如下（詳可見：<a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94-%E8%8B%B1%E8%AA%9E/%E7%86%B1%E8%BA%AB">熱身 | 繁體中文-英文翻譯－劍橋字典</a>）。</p>
-<blockquote>
-<p>“something that you do to prepare yourself for an activity, especially gentle exercises before a physical activity”</p>
-</blockquote>
-<h3 id="Benefits"><a href="#Benefits" class="headerlink" title="Benefits"></a>Benefits</h3><ol>
-<li><p>幫助睡眠：是的，我自己說「開始起算的時間是 2024 年 5 月 1 日，實際上，我現在已經在熱身。」然而，可能是因為太久沒有大量使用我的專注力，所以，前面提到的熱身，其實已經讓我有點累到，但，所幸的是累了，反而睡得更沉。</p>
-</li>
-<li><p>釐清資源的適配性：在 Udemy 上面的 2 部 C++ 教學的課程影片，2 部加起來的時數，總計是 58.5 小時，然而，我分別從頭開始聽取之後，我發現學習效能，並沒有獲得改善。我認為這不是課程的問題，而是我自己能否與課程有良好的適配性。</p>
-</li>
-<li><p>嘗試其他資源，或找尋其他資源：這次重新起步再學，我的運氣好上不少。一方面，應該是網路資源爆發的關係；另一方面，或許是因為 Coding 的教學在國內有更多的種子已經長芽發展。</p>
-</li>
-</ol>
-<h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
-<li><p>資源的變動，並不會改變我原先設定好的學習期程，同時，我也不會因此放掉那 2 部在 Udemy 上面的課程，而是，我比較會把這 2 套課程，當成是輔助教材。</p>
-</li>
-<li><p>延伸閱讀：<a href="https://en.wikipedia.org/wiki/Warming_up">Warming up - Wikipedia</a></p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>learningPlan</category>
-      </categories>
-      <tags>
-        <tag>coding</tag>
-        <tag>cPlusPlus</tag>
-        <tag>cpp</tag>
-        <tag>news</tag>
-        <tag>learningPlan</tag>
       </tags>
   </entry>
 </search>
