@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cpp.jute.tw/learningPlan/starting-from-hello-world/</loc>
+    
+    <lastmod>2024-05-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpp.jute.tw/learningPlan/my-learning-plan/</loc>
+    
+    <lastmod>2024-05-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpp.jute.tw/learningPlan/warming-up/</loc>
+    
+    <lastmod>2024-05-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://cpp.jute.tw/about/index.html</loc>
     
     <lastmod>2024-05-03</lastmod>
@@ -20,25 +47,7 @@
   </url>
   
   <url>
-    <loc>http://cpp.jute.tw/learningPlan/warming-up/</loc>
-    
-    <lastmod>2024-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://cpp.jute.tw/learningPlan/say-hello-to-coding/</loc>
-    
-    <lastmod>2024-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpp.jute.tw/learningPlan/my-learning-plan/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://cpp.jute.tw/</loc>
-    <lastmod>2024-05-03</lastmod>
+    <lastmod>2024-05-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,35 +84,21 @@
   
   <url>
     <loc>http://cpp.jute.tw/tags/coding/</loc>
-    <lastmod>2024-05-03</lastmod>
+    <lastmod>2024-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://cpp.jute.tw/tags/cPlusPlus/</loc>
-    <lastmod>2024-05-03</lastmod>
+    <lastmod>2024-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://cpp.jute.tw/tags/cpp/</loc>
-    <lastmod>2024-05-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpp.jute.tw/tags/news/</loc>
-    <lastmod>2024-05-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpp.jute.tw/tags/learningPlan/</loc>
-    <lastmod>2024-05-03</lastmod>
+    <lastmod>2024-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -112,7 +107,7 @@
   
   <url>
     <loc>http://cpp.jute.tw/categories/learningPlan/</loc>
-    <lastmod>2024-05-03</lastmod>
+    <lastmod>2024-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Say Hello to coding</title>
+    <url>/learningPlan/say-hello-to-coding/</url>
+    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>數算起來，我接觸到 Coding 的時間算早。</p>
+<p>大學某一年的暑假，為了想要多瞭解 Coding，主動跟國中同學借 Borland C++ Builder 的相關書籍來讀，我記得，借來的時候，被上下 2 冊厚重的書本給嚇了一大跳。然而，暑假已經走完，那 2 本書幾乎沒有被我動過，就原封不動地還給同學。</p>
+<p>那時候，一方面，我自己懵懂未知；一方面，則是被厚重的書本與一堆看不懂的詞震驚到，從此，Coding 這件事，就一直被我給擱著不動。</p>
+<p>也可以說，我是被嚇懵了，不清楚可以從何處尋求學習資源，並進一步突破。</p>
+<h3 id="Get-in-touch"><a href="#Get-in-touch" class="headerlink" title="Get in touch"></a>Get in touch</h3><p>僅管如此，這件事並沒有被我遺忘，而是深埋在心裡。</p>
+<p>直到近年，因緣際會接觸到網路的教學資源，這些資源有文字的，也有以影片的方式呈現的。</p>
+<p>起初，我想學的是 <a href="https://www.apple.com/tw/swift/">Swift</a>，在網路上找到一些資源後，開始學習才發現，當年僅僅只是「接觸」Borland C++ Builder 相關書籍的我，壓根沒有吸收到任何跟 Coding 有關的知識養份，充其量只能說當時候「已播下了一顆想要學習的種子」。</p>
+<p>只可惜，這一波學習，我並沒有維持很久，也因此，我也只學到非常皮毛的東西。</p>
+<p>但是，也在想要學習 Swift 的過程，再次碰觸 C++。</p>
+<p>只不過呀！只不過！</p>
+<p>要我現在講一點跟 C++ 有關的，我最多只能抱著不確定的心情，講出個 cin、cout，沒有持續學習的我，根本不敢說自己認識 C++。</p>
+<h3 id="Restart"><a href="#Restart" class="headerlink" title="Restart"></a>Restart</h3><p>設立這支部落格的目的，主要是我想放掉以前與 C++ 相處的種種，讓自己歸零，重新開始。</p>
+<p>希望自己能夠用比較輕鬆愉快的心情面對 Coding，從而慢慢累積相關的知識。</p>
+<p>至於，要學習到什麼程度？</p>
+<p>就目前而言，我先把目標設定在「消化完目前手邊的教學資源」。</p>
+<p>走完這一段之後，再評估我學到什麼程度，其餘再說。</p>
+]]></content>
+      <categories>
+        <category>learningPlan</category>
+      </categories>
+      <tags>
+        <tag>coding</tag>
+        <tag>cPlusPlus</tag>
+        <tag>cpp</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>My learning plan</title>
     <url>/learningPlan/my-learning-plan/</url>
     <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>《文選．劉孝標．廣絕交書》：「苞苴所入，實行張霍之家，謀而後動，毫芒寡忒，是曰：『量交。』」</p>
@@ -27,29 +56,29 @@
         <tag>coding</tag>
         <tag>cPlusPlus</tag>
         <tag>cpp</tag>
-        <tag>news</tag>
-        <tag>learningPlan</tag>
       </tags>
   </entry>
   <entry>
-    <title>Say Hello to coding</title>
-    <url>/learningPlan/say-hello-to-coding/</url>
-    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>數算起來，我接觸到 Coding 的時間算早。</p>
-<p>大學某一年的暑假，為了想要多瞭解 Coding，主動跟國中同學借 Borland C++ Builder 的相關書籍來讀，我記得，借來的時候，被上下 2 冊厚重的書本給嚇了一大跳。然而，暑假已經走完，那 2 本書幾乎沒有被我動過，就原封不動地還給同學。</p>
-<p>那時候，一方面，我自己懵懂未知；一方面，則是被厚重的書本與一堆看不懂的詞震驚到，從此，Coding 這件事，就一直被我給擱著不動。</p>
-<p>也可以說，我是被嚇懵了，不清楚可以從何處尋求學習資源，並進一步突破。</p>
-<h3 id="Get-in-touch"><a href="#Get-in-touch" class="headerlink" title="Get in touch"></a>Get in touch</h3><p>僅管如此，這件事並沒有被我遺忘，而是深埋在心裡。</p>
-<p>直到近年，因緣際會接觸到網路的教學資源，這些資源有文字的，也有以影片的方式呈現的。</p>
-<p>起初，我想學的是 <a href="https://www.apple.com/tw/swift/">Swift</a>，在網路上找到一些資源後，開始學習才發現，當年僅僅只是「接觸」Borland C++ Builder 相關書籍的我，壓根沒有吸收到任何跟 Coding 有關的知識養份，充其量只能說當時候「已播下了一顆想要學習的種子」。</p>
-<p>只可惜，這一波學習，我並沒有維持很久，也因此，我也只學到非常皮毛的東西。</p>
-<p>但是，也在想要學習 Swift 的過程，再次碰觸 C++。</p>
-<p>只不過呀！只不過！</p>
-<p>要我現在講一點跟 C++ 有關的，我最多只能抱著不確定的心情，講出個 cin、cout，沒有持續學習的我，根本不敢說自己認識 C++。</p>
-<h3 id="Restart"><a href="#Restart" class="headerlink" title="Restart"></a>Restart</h3><p>設立這支部落格的目的，主要是我想放掉以前與 C++ 相處的種種，讓自己歸零，重新開始。</p>
-<p>希望自己能夠用比較輕鬆愉快的心情面對 Coding，從而慢慢累積相關的知識。</p>
-<p>至於，要學習到什麼程度？</p>
-<p>就目前而言，我先把目標設定在「消化完目前手邊的教學資源」。</p>
-<p>走完這一段之後，再評估我學到什麼程度，其餘再說。</p>
+    <title>Starting from &#39;Hello world!&#39;</title>
+    <url>/learningPlan/starting-from-hello-world/</url>
+    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>說哈囉（詞、曲：佚名）</p>
+<p>你很高興你就說哈囉！哈囉！<br>你很高興你就說哈囉！哈囉！<br>大家一起唱呀！大家一起跳呀！<br>圍個圓圈盡情歡笑，說哈囉！哈囉！</p>
+<h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><ol>
+<li><p>我又重頭開始學 C++，通常，一開始就是會碰到能夠在螢幕輸出「Hello world!」的程式。</p>
+</li>
+<li><p>這一次，有一點不同的是我重新認識基本的程式架構，之前，我會記下程式架構，但，卻不是那麼清楚我所寫的正是所謂的「基本程式架構」。以前，我是硬背下來，撰寫時就是將硬背的架構寫出來，現在，我會在腦海浮出理解後的程式架構。</p>
+</li>
+<li><p>基本的程式架構，包含程式骨架、變數、輸出與輸入，而，一般的「Hello world!」，多半不會練習到輸入。</p>
+</li>
+<li><p>通常，延著「Hello world!」之後，課程都會再安排讓學員開始學 cin，並且進一步認識變數。</p>
+</li>
+</ol>
+<h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
+<li><p>C++ 是高階的程式語言，編輯好的程式碼，需要經過編譯器產生可執行的程式。</p>
+</li>
+<li><p>延伸閱讀：<a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">C++ - 維基百科，自由的百科全書</a></p>
+</li>
+</ol>
 ]]></content>
       <categories>
         <category>learningPlan</category>
@@ -89,8 +118,6 @@
         <tag>coding</tag>
         <tag>cPlusPlus</tag>
         <tag>cpp</tag>
-        <tag>news</tag>
-        <tag>learningPlan</tag>
       </tags>
   </entry>
 </search>
