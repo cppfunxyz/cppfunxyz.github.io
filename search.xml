@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My learning plan</title>
+    <url>/learningPlan/my-learning-plan/</url>
+    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>《文選．劉孝標．廣絕交書》：「苞苴所入，實行張霍之家，謀而後動，毫芒寡忒，是曰：『量交。』」</p>
+<h3 id="My-plan"><a href="#My-plan" class="headerlink" title="My plan"></a>My plan</h3><p>關於學習 C++ 程式設計的學習計畫，我所設想的大致如下。</p>
+<ol>
+<li><p>Learning goal：預計在 1 年內（從 2024 年 5 月 1 日起算），消化完目前手邊的教學資源。這件事能夠達成的話，再來評估我學到什麼程度。一般而言，多半是以「到達什麼樣的程度」做為目標。而，我之所以訂出這樣的目標，主要是我從來沒有把手邊的教學資源消化完過，回顧自己在 Udemy 入手課程進度來看，通常都停留在 20%，也因此，我現在只知道把 Hello world 輸出來的 cin、cout，這樣能夠說我會程式設計嗎？</p>
+</li>
+<li><p>Resources：在 Udemy 上面的 2 部 C++ 教學的課程影片，2 部加起來的時數，總計是 58.5 小時。</p>
+</li>
+<li><p>Action：每天使用 0.5 至 1 小時的時間，觀看影片。遇到假日，或是可以分配更多時間學習時，就直接拿來運用。</p>
+</li>
+</ol>
+<h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
+<li><p>雖然，我所謂的謀定後動，開始起算的時間是 2024 年 5 月 1 日，實際上，我現在已經在熱身。</p>
+</li>
+<li><p>延伸閱讀：<a href="https://en.wikipedia.org/wiki/Learning_plan">Learning plan - Wikipedia</a></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>learningPlan</category>
+      </categories>
+      <tags>
+        <tag>coding</tag>
+        <tag>cPlusPlus</tag>
+        <tag>cpp</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Say Hello to coding</title>
     <url>/learningPlan/say-hello-to-coding/</url>
     <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>數算起來，我接觸到 Coding 的時間算早。</p>
@@ -30,22 +59,24 @@
       </tags>
   </entry>
   <entry>
-    <title>My learning plan</title>
-    <url>/learningPlan/my-learning-plan/</url>
-    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>《文選．劉孝標．廣絕交書》：「苞苴所入，實行張霍之家，謀而後動，毫芒寡忒，是曰：『量交。』」</p>
-<h3 id="My-plan"><a href="#My-plan" class="headerlink" title="My plan"></a>My plan</h3><p>關於學習 C++ 程式設計的學習計畫，我所設想的大致如下。</p>
-<ol>
-<li><p>Learning goal：預計在 1 年內（從 2024 年 5 月 1 日起算），消化完目前手邊的教學資源。這件事能夠達成的話，再來評估我學到什麼程度。一般而言，多半是以「到達什麼樣的程度」做為目標。而，我之所以訂出這樣的目標，主要是我從來沒有把手邊的教學資源消化完過，回顧自己在 Udemy 入手課程進度來看，通常都停留在 20%，也因此，我現在只知道把 Hello world 輸出來的 cin、cout，這樣能夠說我會程式設計嗎？</p>
+    <title>Starting from &#39;Hello world!&#39;</title>
+    <url>/learningPlan/starting-from-hello-world/</url>
+    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>說哈囉（詞、曲：佚名）</p>
+<p>你很高興你就說哈囉！哈囉！<br>你很高興你就說哈囉！哈囉！<br>大家一起唱呀！大家一起跳呀！<br>圍個圓圈盡情歡笑，說哈囉！哈囉！</p>
+<h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><ol>
+<li><p>我又重頭開始學 C++，通常，一開始就是會碰到能夠在螢幕輸出「Hello world!」的程式。</p>
 </li>
-<li><p>Resources：在 Udemy 上面的 2 部 C++ 教學的課程影片，2 部加起來的時數，總計是 58.5 小時。</p>
+<li><p>這一次，有一點不同的是我重新認識基本的程式架構，之前，我會記下程式架構，但，卻不是那麼清楚我所寫的正是所謂的「基本程式架構」。以前，我是硬背下來，撰寫時就是將硬背的架構寫出來，現在，我會在腦海浮出理解後的程式架構。</p>
 </li>
-<li><p>Action：每天使用 0.5 至 1 小時的時間，觀看影片。遇到假日，或是可以分配更多時間學習時，就直接拿來運用。</p>
+<li><p>基本的程式架構，包含程式骨架、變數、輸出與輸入，而，一般的「Hello world!」，多半不會練習到輸入。</p>
+</li>
+<li><p>通常，延著「Hello world!」之後，課程都會再安排讓學員開始學 cin，並且進一步認識變數。</p>
 </li>
 </ol>
 <h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
-<li><p>雖然，我所謂的謀定後動，開始起算的時間是 2024 年 5 月 1 日，實際上，我現在已經在熱身。</p>
+<li><p>C++ 是高階的程式語言，編輯好的程式碼，需要經過編譯器產生可執行的程式。</p>
 </li>
-<li><p>延伸閱讀：<a href="https://en.wikipedia.org/wiki/Learning_plan">Learning plan - Wikipedia</a></p>
+<li><p>延伸閱讀：<a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">C++ - 維基百科，自由的百科全書</a></p>
 </li>
 </ol>
 ]]></content>
@@ -77,37 +108,6 @@
 <li><p>熱身期間，讓我決定以新找尋到的課程資源為主，僅管如此，我原先設定好的學習期程，並不會受到影響。同時，我也不會因此放掉那 2 部在 Udemy 上面的課程，而是，我比較會把這 2 套課程，當成是輔助教材。</p>
 </li>
 <li><p>延伸閱讀：<a href="https://en.wikipedia.org/wiki/Warming_up">Warming up - Wikipedia</a></p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>learningPlan</category>
-      </categories>
-      <tags>
-        <tag>coding</tag>
-        <tag>cPlusPlus</tag>
-        <tag>cpp</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Starting from &#39;Hello world!&#39;</title>
-    <url>/learningPlan/starting-from-hello-world/</url>
-    <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>說哈囉（詞、曲：佚名）</p>
-<p>你很高興你就說哈囉！哈囉！<br>你很高興你就說哈囉！哈囉！<br>大家一起唱呀！大家一起跳呀！<br>圍個圓圈盡情歡笑，說哈囉！哈囉！</p>
-<h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><ol>
-<li><p>我又重頭開始學 C++，通常，一開始就是會碰到能夠在螢幕輸出「Hello world!」的程式。</p>
-</li>
-<li><p>這一次，有一點不同的是我重新認識基本的程式架構，之前，我會記下程式架構，但，卻不是那麼清楚我所寫的正是所謂的「基本程式架構」。以前，我是硬背下來，撰寫時就是將硬背的架構寫出來，現在，我會在腦海浮出理解後的程式架構。</p>
-</li>
-<li><p>基本的程式架構，包含程式骨架、變數、輸出與輸入，而，一般的「Hello world!」，多半不會練習到輸入。</p>
-</li>
-<li><p>通常，延著「Hello world!」之後，課程都會再安排讓學員開始學 cin，並且進一步認識變數。</p>
-</li>
-</ol>
-<h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><ol>
-<li><p>C++ 是高階的程式語言，編輯好的程式碼，需要經過編譯器產生可執行的程式。</p>
-</li>
-<li><p>延伸閱讀：<a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">C++ - 維基百科，自由的百科全書</a></p>
 </li>
 </ol>
 ]]></content>
