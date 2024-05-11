@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xuecpp.com/learningPlan/practice-for-if-elseif/</loc>
+    
+    <lastmod>2024-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://xuecpp.com/learningPlan/what-if/</loc>
     
     <lastmod>2024-05-08</lastmod>
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://xuecpp.com/learningPlan/my-learning-plan/</loc>
+    <loc>http://xuecpp.com/learningPlan/warming-up/</loc>
     
     <lastmod>2024-05-04</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://xuecpp.com/learningPlan/warming-up/</loc>
+    <loc>http://xuecpp.com/learningPlan/my-learning-plan/</loc>
     
     <lastmod>2024-05-04</lastmod>
     
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://xuecpp.com/tags/index.html</loc>
+    <loc>http://xuecpp.com/categories/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://xuecpp.com/categories/index.html</loc>
+    <loc>http://xuecpp.com/tags/index.html</loc>
     
     <lastmod>2023-08-03</lastmod>
     
@@ -85,7 +94,7 @@
 
   <url>
     <loc>http://xuecpp.com/</loc>
-    <lastmod>2024-05-08</lastmod>
+    <lastmod>2024-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,21 +102,28 @@
   
   <url>
     <loc>http://xuecpp.com/tags/coding/</loc>
-    <lastmod>2024-05-08</lastmod>
+    <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xuecpp.com/tags/cPlusPlus/</loc>
-    <lastmod>2024-05-08</lastmod>
+    <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xuecpp.com/tags/cpp/</loc>
-    <lastmod>2024-05-08</lastmod>
+    <lastmod>2024-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xuecpp.com/tags/practice/</loc>
+    <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -116,7 +132,7 @@
   
   <url>
     <loc>http://xuecpp.com/categories/learningPlan/</loc>
-    <lastmod>2024-05-08</lastmod>
+    <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
